@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Orthodox Church of Kenya</title>
-    <link>http://example.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Orthodox Church of Kenya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 May 2018 13:49:50 +1000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bible</title>
-      <link>http://example.org/tags/bible/</link>
+      <link>/tags/bible/</link>
       <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
       
-      <guid>http://example.org/tags/bible/</guid>
+      <guid>/tags/bible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>historical</title>
-      <link>http://example.org/tags/historical/</link>
+      <link>/tags/historical/</link>
       <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
       
-      <guid>http://example.org/tags/historical/</guid>
+      <guid>/tags/historical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scripture</title>
-      <link>http://example.org/tags/scripture/</link>
+      <link>/tags/scripture/</link>
       <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
       
-      <guid>http://example.org/tags/scripture/</guid>
+      <guid>/tags/scripture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redemption</title>
-      <link>http://example.org/tags/redemption/</link>
+      <link>/tags/redemption/</link>
       <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
       
-      <guid>http://example.org/tags/redemption/</guid>
+      <guid>/tags/redemption/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theology</title>
-      <link>http://example.org/tags/theology/</link>
+      <link>/tags/theology/</link>
       <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
       
-      <guid>http://example.org/tags/theology/</guid>
+      <guid>/tags/theology/</guid>
       <description></description>
     </item>
     

@@ -3,177 +3,177 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2018-05-12T13:49:50+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2018-05-12T13:49:50+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-05-12T13:49:50+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact_thanks/</loc>
+    <loc>/contact_thanks/</loc>
     <lastmod>2018-05-12T13:38:38+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/bible/</loc>
+    <loc>/tags/bible/</loc>
     <lastmod>2018-05-11T09:06:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/historical/</loc>
+    <loc>/tags/historical/</loc>
     <lastmod>2018-05-11T09:06:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/preachers/martin-luther/</loc>
+    <loc>/preachers/martin-luther/</loc>
     <lastmod>2018-05-11T09:06:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/preachers/</loc>
+    <loc>/preachers/</loc>
     <lastmod>2018-05-11T09:06:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/scripture/</loc>
+    <loc>/tags/scripture/</loc>
     <lastmod>2018-05-11T09:06:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2018-05-11T09:06:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/sermons/</loc>
+    <loc>/sermons/</loc>
     <lastmod>2018-05-11T09:06:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/series/test/</loc>
+    <loc>/series/test/</loc>
     <lastmod>2018-05-11T09:06:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/sermons/table-talk-word-of-god-i/</loc>
+    <loc>/sermons/table-talk-word-of-god-i/</loc>
     <lastmod>2018-05-11T09:06:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/preachers/john-calvin/</loc>
+    <loc>/preachers/john-calvin/</loc>
     <lastmod>2018-05-03T20:12:30+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/sermons/institutes-2-11/</loc>
+    <loc>/sermons/institutes-2-11/</loc>
     <lastmod>2018-05-03T20:12:30+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/redemption/</loc>
+    <loc>/tags/redemption/</loc>
     <lastmod>2018-05-03T20:12:30+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/theology/</loc>
+    <loc>/tags/theology/</loc>
     <lastmod>2018-05-03T20:12:30+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/kids/</loc>
+    <loc>/kids/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/ministry/</loc>
+    <loc>/tags/ministry/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/two_column/</loc>
+    <loc>/tags/two_column/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/leaders/</loc>
+    <loc>/leaders/</loc>
     <lastmod>2018-04-30T14:27:13+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2018-04-30T10:05:49+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2017-11-14T10:57:55-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/style-guide/</loc>
+    <loc>/posts/style-guide/</loc>
     <lastmod>2017-11-14T10:57:55-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/image-content/</loc>
+    <loc>/posts/image-content/</loc>
     <lastmod>2017-11-14T08:08:17-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/creating-a-new-theme/</loc>
+    <loc>/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/testing/</loc>
+    <loc>/tags/testing/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/gohowto/</loc>
+    <loc>/posts/gohowto/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/hugohowto/</loc>
+    <loc>/posts/hugohowto/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/templates/</loc>
+    <loc>/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
