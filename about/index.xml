@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Orthodox Church of Kenya</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on Orthodox Church of Kenya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Apr 2018 10:05:49 +1000</lastBuildDate>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/archdiocese/</link>
+      <pubDate>Mon, 30 Apr 2018 10:05:49 +1000</pubDate>
+      
+      <guid>/about/archdiocese/</guid>
+      <description>The Archdiocese of Kenya is under the Greek Orthodox Patriarchate of Alexandria and All Africa.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/bishop/</link>
+      <pubDate>Mon, 30 Apr 2018 10:05:49 +1000</pubDate>
+      
+      <guid>/about/bishop/</guid>
+      <description>Andreas Tillyrides was born in 1945 in Limassol, Cyprus. He studied from 1968 to 1972 at the St. Sergius Orthodox Theological Institute, while studying in the Collège de France and the École Pratique des Hautes Études, afterwards pursuing post-graduation in Church History at Oxford University under Kallistos Ware, receiving a PhD in 1976. In the following year, under Archbishop Makarios III&#39;s orientation, Andreas went to Nairobi to organise an Orthodox seminary.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/faith/</link>
+      <pubDate>Mon, 30 Apr 2018 10:05:49 +1000</pubDate>
+      
+      <guid>/about/faith/</guid>
+      <description>THE SYMBOL OF OUR FAITH
+I believe in one God, Father Almighty, Creator of heaven and earth, and of all things visible and invisible.
+And in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all ages; Light of Light, true God of true God, begotten, not created, of one essence with the Father through Whom all things were made.
+Who for us men and for our salvation came down from heaven and was incarnate of the Holy Spirit and the Virgin Mary and became man.</description>
+    </item>
+    
+  </channel>
+</rss>

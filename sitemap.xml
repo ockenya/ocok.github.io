@@ -4,7 +4,42 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-05-12T13:49:50+10:00</lastmod>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/homilies/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/message/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/messages/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nativity/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/homilies/2019-12-25/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/messages/2019-12-25/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
   
   <url>
@@ -13,78 +48,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-05-12T13:49:50+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/contact_thanks/</loc>
     <lastmod>2018-05-12T13:38:38+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bible/</loc>
-    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/historical/</loc>
-    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/preachers/martin-luther/</loc>
-    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/preachers/</loc>
-    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/scripture/</loc>
-    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/series/</loc>
-    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sermons/</loc>
-    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/series/test/</loc>
-    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sermons/table-talk-word-of-god-i/</loc>
-    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/preachers/john-calvin/</loc>
-    <lastmod>2018-05-03T20:12:30+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sermons/institutes-2-11/</loc>
-    <lastmod>2018-05-03T20:12:30+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/redemption/</loc>
-    <lastmod>2018-05-03T20:12:30+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/theology/</loc>
-    <lastmod>2018-05-03T20:12:30+10:00</lastmod>
   </url>
   
   <url>
@@ -105,6 +70,26 @@
   <url>
     <loc>/leaders/</loc>
     <lastmod>2018-04-30T14:27:13+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-04-30T10:05:49+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/archdiocese/</loc>
+    <lastmod>2018-04-30T10:05:49+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/bishop/</loc>
+    <lastmod>2018-04-30T10:05:49+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/faith/</loc>
+    <lastmod>2018-04-30T10:05:49+10:00</lastmod>
   </url>
   
   <url>
@@ -175,6 +160,14 @@
   <url>
     <loc>/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/preachers/</loc>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Messages on Orthodox Church of Kenya</title>
+    <link>/messages/</link>
+    <description>Recent content in Messages on Orthodox Church of Kenya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2019 20:12:30 +1000</lastBuildDate>
+    
+	<atom:link href="/messages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nativity Message for 2019 (Sample--Not Real)</title>
+      <link>/messages/2019-12-25/</link>
+      <pubDate>Tue, 10 Dec 2019 20:12:30 +1000</pubDate>
+      
+      <guid>/messages/2019-12-25/</guid>
+      <description>Beloved brothers and sisters in Christ, dear children,
+By the grace of God, we are once again deemed worthy to reach the great feast of the birth of the divine Word in the flesh, who came into the world to grant us “well-being,” remission of sin, of captivity to the works of the law and death, in order to grant us true life and great joy, which “no one can take from us.</description>
+    </item>
+    
+  </channel>
+</rss>
