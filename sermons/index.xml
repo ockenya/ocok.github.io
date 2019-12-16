@@ -9,23 +9,23 @@
    xmlns:media="https://search.yahoo.com/mrss/"
    xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0">
   <channel>
-    <title>Listen to Alpha Church</title>
+    <title></title>
     <link>http://example.org/</link>
     <atom:link href="http://example.org/sermons/index.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <lastBuildDate>Fri, 11 May 2018 09:06:46 &#43;1000</lastBuildDate>
-    <copyright>Podcast: [CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)</copyright>
+    <copyright></copyright>
     <itunes:subtitle></itunes:subtitle>
     <itunes:author>Michael Colburn</itunes:author>
-    <itunes:summary>Alpha-Church sermons, talks, messages—podcasted.</itunes:summary>
-    <description>Alpha-Church sermons, talks, messages—podcasted.</description>
+    <itunes:summary></itunes:summary>
+    <description></description>
     <itunes:owner>
       <itunes:name>Michael Colburn</itunes:name>
-      <itunes:email>test@example.com</itunes:email>
+      <itunes:email></itunes:email>
     </itunes:owner>
-    <itunes:image href="http://example.org/img/podcast-cover.jpg" />
-    <itunes:category text="Religion &amp; Spirituality">
-      <itunes:category text="Christianity" />
+    <itunes:image href="http://example.org/" />
+    <itunes:category text="">
+      <itunes:category text="" />
     </itunes:category>
     <itunes:block>no</itunes:block>
     <itunes:explicit>no</itunes:explicit>
