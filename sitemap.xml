@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>/posts/hello-world/</loc>
+    <lastmod>2018-05-03T21:08:01+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2018-05-03T21:08:01+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/testing/</loc>
+    <lastmod>2018-05-03T21:08:01+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/kids/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
@@ -90,71 +105,6 @@
   <url>
     <loc>/bishop/biography/</loc>
     <lastmod>2018-04-30T10:05:49+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2017-11-14T10:57:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/style-guide/</loc>
-    <lastmod>2017-11-14T10:57:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/image-content/</loc>
-    <lastmod>2017-11-14T08:08:17-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/testing/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/gohowto/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/hugohowto/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>

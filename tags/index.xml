@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>testing</title>
+      <link>/tags/testing/</link>
+      <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
+      
+      <guid>/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ministry</title>
       <link>/tags/ministry/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
@@ -44,15 +53,6 @@
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/tags/two_column/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>testing</title>
-      <link>/tags/testing/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/testing/</guid>
       <description></description>
     </item>
     

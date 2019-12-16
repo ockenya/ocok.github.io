@@ -52,13 +52,12 @@ By the grace of God, we are once again deemed worthy to reach the great feast of
     </item>
     
     <item>
-      <title>Kids</title>
-      <link>/kids/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      <title>Greetings from our new website!</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
       
-      <guid>/kids/</guid>
-      <description>This is an example of multiple columns.
-Unfortunately it needs the author to write html to work (though I could put everything in the front matter!)</description>
+      <guid>/posts/hello-world/</guid>
+      <description>From time to time we will post announcements and other information about our archdiocese here!</description>
     </item>
     
   </channel>
