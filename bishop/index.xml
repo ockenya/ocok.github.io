@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Orthodox Church of Kenya</title>
-    <link>/</link>
-    <description>Recent content on Orthodox Church of Kenya</description>
+    <title>Bishops on Orthodox Church of Kenya</title>
+    <link>/bishop/</link>
+    <description>Recent content in Bishops on Orthodox Church of Kenya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2019 20:12:30 +1000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/bishop/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -34,31 +34,12 @@ By the grace of God, we are once again deemed worthy to reach the great feast of
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Sat, 12 May 2018 13:49:50 +1000</pubDate>
+      <title>Biography</title>
+      <link>/bishop/biography/</link>
+      <pubDate>Mon, 30 Apr 2018 10:05:49 +1000</pubDate>
       
-      <guid>/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thanks for Contacting Us</title>
-      <link>/contact_thanks/</link>
-      <pubDate>Sat, 12 May 2018 13:38:38 +1000</pubDate>
-      
-      <guid>/contact_thanks/</guid>
-      <description>Thanks for touching base with us. Someone from Alpha Church will be in touch soon.</description>
-    </item>
-    
-    <item>
-      <title>Kids</title>
-      <link>/kids/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>/kids/</guid>
-      <description>This is an example of multiple columns.
-Unfortunately it needs the author to write html to work (though I could put everything in the front matter!)</description>
+      <guid>/bishop/biography/</guid>
+      <description>Andreas Tillyrides was born in 1945 in Limassol, Cyprus. He studied from 1968 to 1972 at the St. Sergius Orthodox Theological Institute, while studying in the Collège de France and the École Pratique des Hautes Études, afterwards pursuing post-graduation in Church History at Oxford University under Kallistos Ware, receiving a PhD in 1976. In the following year, under Archbishop Makarios III&#39;s orientation, Andreas went to Nairobi to organise an Orthodox seminary.</description>
     </item>
     
   </channel>

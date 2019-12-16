@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>/homilies/</loc>
+    <loc>/bishop/</loc>
     <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
   
@@ -18,22 +18,17 @@
   </url>
   
   <url>
-    <loc>/messages/</loc>
-    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/nativity/</loc>
     <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/homilies/2019-12-25/</loc>
+    <loc>/bishop/encyclicals/2019-12-25/</loc>
     <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/messages/2019-12-25/</loc>
+    <loc>/bishop/homilies/2019-12-25/</loc>
     <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
   
@@ -83,17 +78,17 @@
   </url>
   
   <url>
-    <loc>/about/bishop/</loc>
-    <lastmod>2018-04-30T10:05:49+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/faith/</loc>
     <lastmod>2018-04-30T10:05:49+10:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
+    <lastmod>2018-04-30T10:05:49+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bishop/biography/</loc>
     <lastmod>2018-04-30T10:05:49+10:00</lastmod>
   </url>
   
