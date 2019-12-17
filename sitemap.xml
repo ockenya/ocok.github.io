@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://ocok.org/bishop/</loc>
+    <loc>https://ocok.org/encyclicals/</loc>
     <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ocok.org/encyclicals/</loc>
+    <loc>https://ocok.org/homilies/</loc>
     <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
   
@@ -28,32 +28,22 @@
   </url>
   
   <url>
-    <loc>https://ocok.org/bishop/encyclicals/2019-12-24/</loc>
-    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ocok.org/bishop/encyclicals/2019-12-25/</loc>
-    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ocok.org/bishop/homilies/h01/</loc>
-    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ocok.org/bishop/homilies/h02/</loc>
-    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ocok.org/encyclicals/2019-12-24/</loc>
     <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://ocok.org/encyclicals/2019-12-25/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocok.org/homilies/h01/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocok.org/homilies/h02/</loc>
     <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
   
@@ -70,11 +60,6 @@
   <url>
     <loc>https://ocok.org/contact_thanks/</loc>
     <lastmod>2018-05-12T13:38:38+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ocok.org/bishop/encyclicals/hello-world/</loc>
-    <lastmod>2018-05-03T21:08:01+10:00</lastmod>
   </url>
   
   <url>
@@ -138,7 +123,7 @@
   </url>
   
   <url>
-    <loc>https://ocok.org/bishop/biography/</loc>
+    <loc>https://ocok.org/about/bishop/</loc>
     <lastmod>2018-04-30T10:05:49+10:00</lastmod>
   </url>
   
