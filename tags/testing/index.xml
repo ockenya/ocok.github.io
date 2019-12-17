@@ -22,6 +22,15 @@
     
     <item>
       <title>Greetings from our new website!</title>
+      <link>https://ocok.org/encyclicals/hello-world/</link>
+      <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
+      
+      <guid>https://ocok.org/encyclicals/hello-world/</guid>
+      <description>From time to time we will post announcements and other information about our archdiocese here!</description>
+    </item>
+    
+    <item>
+      <title>Greetings from our new website!</title>
       <link>https://ocok.org/posts/hello-world/</link>
       <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
       

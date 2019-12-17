@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://ocok.org/encyclicals/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ocok.org/tags/message/</loc>
     <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
@@ -43,6 +48,16 @@
   </url>
   
   <url>
+    <loc>https://ocok.org/encyclicals/2019-12-24/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocok.org/encyclicals/2019-12-25/</loc>
+    <lastmod>2019-12-10T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ocok.org/tags/</loc>
     <lastmod>2019-12-10T20:12:30+10:00</lastmod>
   </url>
@@ -59,6 +74,11 @@
   
   <url>
     <loc>https://ocok.org/bishop/encyclicals/hello-world/</loc>
+    <lastmod>2018-05-03T21:08:01+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocok.org/encyclicals/hello-world/</loc>
     <lastmod>2018-05-03T21:08:01+10:00</lastmod>
   </url>
   
