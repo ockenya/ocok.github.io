@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bishops on Orthodox Church of Kenya</title>
-    <link>/bishop/</link>
+    <link>https://ocok.org/bishop/</link>
     <description>Recent content in Bishops on Orthodox Church of Kenya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2019 20:12:30 +1000</lastBuildDate>
     
-	<atom:link href="/bishop/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ocok.org/bishop/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nativity Message for 2019 (Sample--Not Real)</title>
-      <link>/bishop/encyclicals/2019-12-25/</link>
+      <link>https://ocok.org/bishop/encyclicals/2019-12-25/</link>
       <pubDate>Tue, 10 Dec 2019 20:12:30 +1000</pubDate>
       
-      <guid>/bishop/encyclicals/2019-12-25/</guid>
+      <guid>https://ocok.org/bishop/encyclicals/2019-12-25/</guid>
       <description>Beloved brothers and sisters in Christ, dear children,
 Christ is Born! Glorify Him!
 Kristo Amezaliwa! Tumtukuze!
@@ -25,20 +25,20 @@ By the grace of God, we are once again deemed worthy to reach the great feast of
     
     <item>
       <title>Nativity Message for 2019 (Sample--Not Real)</title>
-      <link>/bishop/homilies/2019-12-25/</link>
+      <link>https://ocok.org/bishop/homilies/2019-12-25/</link>
       <pubDate>Tue, 10 Dec 2019 20:12:30 +1000</pubDate>
       
-      <guid>/bishop/homilies/2019-12-25/</guid>
+      <guid>https://ocok.org/bishop/homilies/2019-12-25/</guid>
       <description>Beloved brothers and sisters in Christ, dear children,
 By the grace of God, we are once again deemed worthy to reach the great feast of the birth of the divine Word in the flesh, who came into the world to grant us “well-being,” remission of sin, of captivity to the works of the law and death, in order to grant us true life and great joy, which “no one can take from us.</description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>/bishop/biography/</link>
+      <link>https://ocok.org/bishop/biography/</link>
       <pubDate>Mon, 30 Apr 2018 10:05:49 +1000</pubDate>
       
-      <guid>/bishop/biography/</guid>
+      <guid>https://ocok.org/bishop/biography/</guid>
       <description>Andreas Tillyrides was born in 1945 in Limassol, Cyprus. He studied from 1968 to 1972 at the St. Sergius Orthodox Theological Institute, while studying in the Collège de France and the École Pratique des Hautes Études, afterwards pursuing post-graduation in Church History at Oxford University under Kallistos Ware, receiving a PhD in 1976. In the following year, under Archbishop Makarios III&#39;s orientation, Andreas went to Nairobi to organise an Orthodox seminary.</description>
     </item>
     
