@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schools on Orthodox Church of Kenya</title>
+    <link>https://ocok.org/tags/schools/</link>
+    <description>Recent content in schools on Orthodox Church of Kenya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="https://ocok.org/tags/schools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Schools</title>
+      <link>https://ocok.org/schools/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>https://ocok.org/schools/</guid>
+      <description>Information about schools will be here.</description>
+    </item>
+    
+  </channel>
+</rss>

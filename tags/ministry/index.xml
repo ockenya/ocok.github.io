@@ -12,13 +12,39 @@
     
     
     <item>
-      <title>Kids</title>
-      <link>https://ocok.org/kids/</link>
+      <title>Orphanages</title>
+      <link>https://ocok.org/orphanages/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>https://ocok.org/kids/</guid>
-      <description>This is an example of multiple columns.
-Unfortunately it needs the author to write html to work (though I could put everything in the front matter!)</description>
+      <guid>https://ocok.org/orphanages/</guid>
+      <description>Information about orphanages will be here.</description>
+    </item>
+    
+    <item>
+      <title>Parishes</title>
+      <link>https://ocok.org/parishes/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>https://ocok.org/parishes/</guid>
+      <description>Information about parishes will be here.</description>
+    </item>
+    
+    <item>
+      <title>Schools</title>
+      <link>https://ocok.org/schools/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>https://ocok.org/schools/</guid>
+      <description>Information about schools will be here.</description>
+    </item>
+    
+    <item>
+      <title>Serve</title>
+      <link>https://ocok.org/serve/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>https://ocok.org/serve/</guid>
+      <description>Information about ways to serve will be here.</description>
     </item>
     
   </channel>
